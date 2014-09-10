@@ -12,6 +12,11 @@ body {
     background-color: white;
 }
 
+img
+{
+    max-width: 100%;
+}
+
 html {
     width: 100%;
     height: 100%;
